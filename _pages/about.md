@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my academic website. Browse the tabs to find out more about my research and teaching.
+Hi, welcome to my academic website. Browse the tabs above to find out more about my research and teaching.
 
 I’m currently a postdoctoral research fellow (funded by the Humboldt Foundation) working at the Humboldt University of Berlin and the Max Planck Institute for Human Cognitive and Brain Sciences with Prof. Drs. Marcel Brass and Michael Gaebler. My main topic of research here is on voluntary control over internal bodily functions, such as heart rate and skin temperature. In the summer of 2025, I will move to Tromso to work as a Marie Skłodowska-Curie fellow at the Arctic University of Norway to investigate transitions between different attentional and distraction states.
 

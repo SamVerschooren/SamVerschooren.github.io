@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sam Verschooren's Academic Website"
+title                    : "sam.verschooren@hu-berlin.de"
 title_separator          : "-"
 name                     : &name "Sam Verschooren"
 description              : &description "personal description"

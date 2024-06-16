@@ -15,6 +15,6 @@ Before moving to Germany, I was a postdoctoral research fellow at Ghent Universi
 
 I did my PhD at Ghent University, where I investigated how people switch between external and internal attention, under the supervision of Prof. Dr. Gilles Pourtois. Prior to my PhD, I obtained master’s degrees in theoretical and experimental psychology and in philosophy.
 
-In my free time, I love reading fiction and non-fiction books, and going for hikes in nature and traveling with my girlfriend. I’m a big music fan, particularly of Bob Dylan. I go running often, and practice yoga and meditation. My main guilty pleasures are probably watching bad action movies and Belgian chocolate, ideally combined.
+In my free time, I love reading fiction and non-fiction books, and going for hikes in nature and traveling with my girlfriend. I’m also a big music fan, particularly of Bob Dylan. I go running often, and practice yoga and meditation. My main guilty pleasures are probably watching bad action movies and Belgian chocolate, ideally combined.
 
 

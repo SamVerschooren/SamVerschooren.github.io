@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "sam.verschooren@hu-berlin.de"
+title                    : "Sam Verschooren's Academic Website"
 title_separator          : "-"
 name                     : &name "Sam Verschooren"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Sam Verschooren"
+  name             : "sam.verschooren@hu-berlin.de"
   pronouns         : # example: "she/her"  
   bio              : "Humboldt Foundation Postdoctoral Research Fellow"
   location         : "Berlin, Germany"
-  employer         : "Humboldt University of Berlin/Max Planck Institute"
+  employer         : "Humboldt University of Berlin"
   uri              : # URL
   email            : "sam.verschooren@hu-berlin.de" 
 

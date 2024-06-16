@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Sam Verschooren"
-  pronouns         : # example: "she/her"  
-  bio              : "sam.verschooren@hu-berlin.de   Humboldt Foundation Postdoctoral Research Fellow"
+  pronouns         : "sam.verschooren@hu-berlin.de"  
+  bio              : "Humboldt Foundation Postdoctoral Research Fellow"
   location         : "Berlin, Germany"
   employer         : "Humboldt University"
   uri              : # URL

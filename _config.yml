@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "sam.verschooren@hu-berlin.de"
+  name             : "Dr. Sam Verschooren"
   pronouns         : # example: "she/her"  
-  bio              : "Humboldt Foundation Postdoctoral Research Fellow"
+  bio              : "sam.verschooren@hu-berlin.de   Humboldt Foundation Postdoctoral Research Fellow"
   location         : "Berlin, Germany"
   employer         : "Humboldt University"
   uri              : # URL

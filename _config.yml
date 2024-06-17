@@ -31,7 +31,7 @@ author:
   email            : "sam.verschooren@hu-berlin.de" 
 
   # Academic websites
-  arxiv            : "https://osf.io/esmxb/"
+  arxiv            : # "https://osf.io/esmxb/"
   googlescholar    : "https://scholar.google.com/citations?user=MHeR8s4AAAAJ&"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"

@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Sam Verschooren"
-  pronouns         : "sam.verschooren@hu-berlin.de"  
-  bio              : "Alexander von Humboldt Foundation Postdoctoral Research Fellow"
-  location         : "Berlin, Germany"
-  employer         : "Humboldt University"
+  pronouns         : "sam.verschooren@uit.no"  
+  bio              : "Maria Skłodowska-Curie Postdoctoral Research Fellow"
+  location         : "Tromsø, Norway"
+  employer         : "Arctic University of Norway"
   uri              : # URL
-  email            : "sam.verschooren@hu-berlin.de" 
+  email            : "sam.verschooren@uit.no" 
 
   # Academic websites
   arxiv            : # "https://osf.io/esmxb/"

@@ -16,8 +16,7 @@ My main research line is focused on understanding transitions between attentiona
 
 More recently, I have integrated these external-internal transitions with on- and off-task attention states. People often choose to distract themselves, either externally (e.g., looking at our phone) or internally (e.g., thinking about weekend plans). This integration within a single attentional state space, defined by a Direction (i.e., external vs. internal) and Goal-Relevance (i.e., on- vs. off-task), allows me to capture the full transition dynamics of attention.  This is a pressing issue, as there currently is a war for attention going on, obstructing our capacity to focus both on personal goals and the many challenges humanity faces. I am using behavioral measures, eye-tracking, and pupillometry to capture these states and quantify the dwelling times and a transition matrix through computational modeling. Inspired by recent empirical work on attention switching and neurobiological models of attention, I hypothesize (i) the existence of an Off-Focus state through which these dynamical transitions occur, (ii) that internal bias and goal value determine which areas are visited most, and (iii) that contextual manipulations can alter the relative times spent in each area. I hope that bridging these different fields of attentional research will increase cross-talk between them and provide building blocks for interventions targeting healthy attentional engagement.
 
-![The puzzle of attention](/images/puzzle_dim_final.svg)
-
+<img src="/images/puzzle_dim_final.svg" alt="Attentional state space" style="width:300px;">
 
 ## Voluntary control over the internal body (“interoaction”)
 

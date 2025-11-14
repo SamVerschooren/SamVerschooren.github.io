@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align: justify;">
 
 ## The transition dynamics of attention
 
@@ -31,4 +32,4 @@ A second key research line focuses on voluntary control learning over autonomic 
 
 My third research line tackles a stimulating novel question: how interoceptive rhythms potentially scaffold transitions between attentional states and whether we can leverage control over interoceptive rhythms to enhance attentional control. In a way, this research line can be seen as an ambitious integration of my other two main research lines. Moreover, this work also feeds into my interest in contemplative traditions, such as yoga and meditation, where a link between interoceptive control and attentional control has long been suspected (e.g., the yogic adage that “The mind cannot control the mind, only the body can control the mind”). I will hopefully be able to share some exciting updates on this work soon!
 
-
+ </div>

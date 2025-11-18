@@ -16,7 +16,7 @@ I’m currently a Marie Skłodowska-Curie postdoctoral fellow at the Arctic Univ
  </div>  
 
 <br><br>
-In my free time, I love reading books and going for hikes and camping in the mountains. I’m also a big music fan, particularly of Bob Dylan. I go running and climbing often, and practice yoga and meditation.
+In my free time, I love reading books and going for hikes and camping in the mountains. I go running and climbing often, and practice yoga and meditation. I also really enjoy listening to folk and blues music, particularly Bob Dylan. I even attempted to learn to play the harmonica for a while, but that was only mildly succesful.
 
 <div style="text-align: center;">
  <img src="/images/climbing.jpg" alt="Climbing" style="width:160px;">

@@ -11,6 +11,12 @@ Hi, welcome to my academic website. Browse the tabs above to find out more about
 
 I’m currently a Marie Skłodowska-Curie postdoctoral fellow at the Arctic University of Norway in Tromsø (NO), working with Prof. Dr. <a href="https://uit.no/research/cognitive-neuroscience">Matthias Mittner</a> to investigate transitions between different attentional and distraction states.
 
+<div style="text-align: center;">
+ <img src="/images/uit.jpg" alt="UiT" style="width:250px;">
+ </div>
+
 In my free time, I love reading books and going for hikes and camping in the mountains. I’m also a big music fan, particularly of Bob Dylan. I go running and climbing often, and practice yoga and meditation.
 
-
+<div style="text-align: center;">
+ <img src="/images/climbing.jpg" alt="Climbing" style="width:250px;">
+ </div>

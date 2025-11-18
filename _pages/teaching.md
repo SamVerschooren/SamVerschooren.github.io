@@ -13,7 +13,7 @@ I devised this seminar course on attention in cognitive science and in contempla
 
 <div style="text-align: center;">
  <img src="/images/yogalecture.jpg" alt="Lecture" style="width:250px;">
-  <img src="/images/yogagroup.jpg" alt="Group" style="width:280px;">
+ <!-- <img src="/images/yogagroup.jpg" alt="Group" style="width:280px;"> -->
  </div>
 
 ## Other

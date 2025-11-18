@@ -15,12 +15,12 @@ I’m currently a Marie Skłodowska-Curie postdoctoral fellow at the Arctic Univ
  <img src="/images/uit.jpg" alt="UiT" style="width:500px;">
  </div>
 
-
+<br>
 In my free time, I love reading books and going for hikes and camping in the mountains. I’m also a big music fan, particularly of Bob Dylan. I go running and climbing often, and practice yoga and meditation.
 
 <div style="text-align: center;">
  <img src="/images/climbing.jpg" alt="Climbing" style="width:200px;">
- <img src="/images/ski.jpg" alt="Skiing" style="width:300px;">
- <img src="/images/hike.jpg" alt="Hiking" style="width:300px;">
+ <img src="/images/ski.jpg" alt="Skiing" style="width:280px;">
+ <img src="/images/hike.jpg" alt="Hiking" style="width:280px;">
   
  </div>

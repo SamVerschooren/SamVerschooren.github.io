@@ -16,7 +16,7 @@ I’m currently a Marie Skłodowska-Curie postdoctoral fellow at the Arctic Univ
  </div>  
 
 <br><br>
-When I'm not in the office, I mostly like to spend my time hiking, camping, climbing, or skiing in the mountains, but I can also also enjoy relaxing at home with a book. I really enjoy listening to folk and blues music. I even attempted to learn to play the harmonica for a while, but that was only mildly successful.
+When I'm not in the office, I mostly like to spend my time hiking, camping, climbing, or skiing in the mountains, but I can also also enjoy relaxing at home with a book and listening to some folk and blues music. I even attempted to learn to play the harmonica for a while, but that was only mildly successful.
 
 <div style="text-align: center;">
  <img src="/images/climbing.jpg" alt="Climbing" style="width:160px;">

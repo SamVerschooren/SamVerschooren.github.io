@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my academic website. Browse the tabs above to find out more about my research, teaching, and background.
 
-I’m currently a Marie Skłodowska-Curie postdoctoral fellow at the Arctic University of Norway in Tromsø (NO), working with Prof. Dr. <a href="https://uit.no/research/cognitive-neuroscience">Matthias Mittner</a> to investigate transitions between different attentional and distraction states. You can find my CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank">here</a>.
+I’m currently a Marie Skłodowska-Curie postdoctoral fellow at the Arctic University of Norway in Tromsø (NO), working with Prof. Dr. <a href="https://uit.no/research/cognitive-neuroscience">Matthias Mittner</a> to investigate transitions between different attentional and distraction states. You can find my CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank">here</a> or read more about my background <a href="{{ site.baseurl }}/background/">here</a>
 
 <div style="text-align: center;">
  <img src="/images/uit.jpg" alt="UiT" style="width:550px;">

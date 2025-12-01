@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Sam verschooren-01902-small.jpg"
+  avatar           : "Sam Verschooren 2.jpg" #"Sam verschooren-01902-small.jpg"
   name             : "Dr. Sam Verschooren"
   pronouns         : "sam.verschooren@uit.no"  
   bio              : "Maria Skłodowska-Curie Postdoctoral Research Fellow"

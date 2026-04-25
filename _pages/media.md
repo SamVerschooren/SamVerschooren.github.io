@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "media"
+layout: archive
+title: "Media"
+permalink: /media/
 author_profile: true
-redirect_from: 
-  - /media/
-  - /media.html
 ---
 
 Some science communication I've been involved in:

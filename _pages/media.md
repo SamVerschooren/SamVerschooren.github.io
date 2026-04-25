@@ -7,4 +7,4 @@ author_profile: true
 
 Some science communication I've been involved in:
 
-https://www.sciencenorway.no/digital-technology-health-researchers-zone/techniques-to-stay-focused-in-the-war-for-attention/2651078
+<a href="https://www.sciencenorway.no/digital-technology-health-researchers-zone/techniques-to-stay-focused-in-the-war-for-attention/2651078">Science Norway</a> 

@@ -21,6 +21,6 @@ When I'm not in the office, I like to spend my time hiking, camping, climbing, o
 <div style="text-align: center;">
  <img src="/images/climbing.jpg" alt="Climbing" style="width:160px;">
  <img src="/images/ski.jpg" alt="Skiing" style="width:285px;">
- <img src="/images/hike.jpg" alt="Hiking" style="width:285px;">
+ <!--  <img src="/images/hike.jpg" alt="Hiking" style="width:285px;">  -->
   
  </div>

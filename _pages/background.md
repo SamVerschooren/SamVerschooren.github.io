@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Background"
-permalink: /background/
+title: "Cognitive science of yoga"
+permalink: /cogsciyoga/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I have gained international research experience in several labs around the world. Before moving to Norway, I was a postdoctoral research fellow (funded by the Alexander von Humboldt Foundation) working at the Humboldt University of Berlin (DE) and the Max Planck Institute for Human Cognitive and Brain Sciences (DE) with <a href="https://social-intelligence-group.github.io/">Marcel Brass</a> and <a href="https://www.cbs.mpg.de/departments/neurology/mind-body-emotion">Michael Gaebler</a>. During this time, I worked on interoceptive attention and on voluntary control over internal bodily functions, such as heart rate and skin temperature. Before that, I was a postdoctoral research fellow at Ghent University (BE) working with Marcel Brass and <a href="https://users.ugent.be/~sbraem/">Senne Braem</a> (funded by FWO) and at Duke University (USA) working with <a href="https://www.egnerlab.org/">Tobias Egner</a> (funded by BAEF), where I examined the balance between external and internal attention. I'm also broadly interested in the integration of perspective on the human mind from cognitive science and contemplative traditions (more info on an ongoing collaboration with an international yoga institute <a href="https://www.yogalife.org/research-collaboration">here</a>).
+Together with colleagues at Humboldt University of Berlin (DE) and the Max Planck Institute for Human Cognitive and Brain Sciences (DE), I have started a research group that aims to bridge cognitive science with yogic insights. This research group operates in close collaboration with expert yogic practitioners and our common goal is to take yogic psychology seriously as a conceptual contributor, rather than just an object of study. We have a meeting once a month in which members of the group present relevant work and to discuss progress on our projects. Our two main projects at the moment are (i) the development an integrative framework in which the yoga sutras (Patanjali) are used to generate testable predictions within a cognitive operationalization; and (ii)  collecting data during the yoga retreats organized by <a href="[https://cogsciyoga.org/](https://yogalife.org/research-collaboration)">Yogalife</a> aorund the world.
 
-I completed my PhD at Ghent University (2020), where I investigated how people switch between external and internal attention, under the supervision of <a href="https://www.cap-lab.be/">Gilles Pourtois</a>. Prior to my PhD, I obtained master’s degrees in theoretical and experimental psychology (2016) and in philosophy (2014).
-
-Find my CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank">here</a>.
+You can check out our website <a href="https://cogsciyoga.org/">here</a>. Feel free to contact me if you're interested in attending our meetings or presenting some of your own research or ideas.
